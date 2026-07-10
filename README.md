@@ -1,8 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,100:9333ea&height=190&section=header&text=Kiarash%20Mirkamandari&fontColor=ffffff&fontSize=44&animation=fadeIn&fontAlignY=36&desc=AI%2FML%20Engineer%20%C2%B7%20CS%20%2B%20Math%20%40%20Queens&descAlignY=56&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,100:9333ea&height=190&section=header&text=Kiarash%20Mirkamandari&fontColor=ffffff&fontSize=44&animation=fadeIn&fontAlignY=36&desc=Engineer%20%C2%B7%20Founder%20%C2%B7%20CS%20%2B%20Math%20%40%20Queens&descAlignY=56&descSize=18" />
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=560&lines=Production+ML+systems;RAG+%26+LLM+pipelines;Data+infrastructure+at+scale;Always+shipping" alt="typing banner" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=A78BFA&center=true&vCenter=true&width=560&lines=Nearly+a+decade+of+code;CTO+%40+KynTrack;ML+%26+Data+Engineer;Founder+%26+builder" alt="typing banner" />
   </a>
 </p>
 
