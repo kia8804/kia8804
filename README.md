@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,100:9333ea&height=190&section=header&text=Kiarash%20Mirkamandari&fontColor=ffffff&fontSize=44&animation=fadeIn&fontAlignY=36&desc=Engineer%20%C2%B7%20Founder%20%C2%B7%20CS%20%2B%20Math%20%40%20Queens&descAlignY=56&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,100:9333ea&height=190&section=header&text=Kiarash%20Mirkamandari&fontColor=ffffff&fontSize=44&animation=fadeIn&fontAlignY=36&desc=Engineer%20%C2%B7%20Founder%20%C2%B7%20CS%20%40%20Queens&descAlignY=56&descSize=18" />
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
